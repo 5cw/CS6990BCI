@@ -1,0 +1,3 @@
+[submodule "BCIs-S24"]
+	path = BCIs-S24
+	url = https://github.com/djangraw/BCIs-S24.git
